@@ -1,4 +1,5 @@
 ﻿# Sitecore.AuthenticatedPreview
+**SUPPORTED VERSIONS:** Intended for Sitecore versions 6.6 to 7.5
 
 **Use the new 'Preview as Me' button to give authors a choice to preview as themselves. Great for use with content secured from the anonymous user!**
 
